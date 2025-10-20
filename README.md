@@ -48,7 +48,7 @@ A estratégia utilizada foi uma solução otimizada em espaço ($O(1)$) que usa 
 
 ![](assets/44Submit.png)
 
-### 2. [21. Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)
+### 2. [321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)
 ![](assets/321.png)
 
 
@@ -99,6 +99,12 @@ A lógica foi dividida em três casos baseados no comprimento (n):
 ## 🎬 Vídeo de Apresentação
 
 A explicação detalhada do raciocínio por trás de cada solução pode ser encontrada nos vídeos abaixo:
+
+[44. Wildcard Matching](https://youtu.be/zT4kL60FEXw)
+
+[321. Create Maximum Number](https://youtu.be/HjgxDimoj1s)
+
+[420. Strong Password Checker](https://youtu.be/Wm5z0S9GEy8)
 
 
 
