@@ -28,7 +28,7 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 
 ---
 ### 1. [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
-![](assets/44.png)
+![](Assets/44.png)
 
 
 #### **Estratégia: Algoritmo Ambicioso (Greedy) com Backtracking** 
@@ -46,10 +46,10 @@ A estratégia utilizada foi uma solução otimizada em espaço ($O(1)$) que usa 
 **Submissão:**
 [Submissão LeetCode 44](https://leetcode.com/problems/wildcard-matching/submissions/1807087294)
 
-![](assets/44Submit.png)
+![](Assets/44Submit.png)
 
 ### 2. [321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/)
-![](assets/321.png)
+![](Assets/321.png)
 
 
 #### **Estratégia:** 
@@ -64,11 +64,11 @@ A estratégia para este problema é complexa e foi dividida em três subproblema
 **Submissão:**
 [Submissão LeetCode 321](https://leetcode.com/problems/create-maximum-number/submissions/1807090880)
 
-![](assets/321Submit.png)
+![](Assets/321Submit.png)
 
 
 ### 3. [420. Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/)
-![](assets/420.png)
+![](Assets/420.png)
 
 
 #### **Estratégia:** 
@@ -93,7 +93,8 @@ A lógica foi dividida em três casos baseados no comprimento (n):
 **Submissão:**
 [Submissão LeetCode 420](https://leetcode.com/problems/strong-password-checker/submissions/1807092210)
 
-![](assets/420Submit.png)
+![](Assets/420Submit.png)
+
 ---
 
 ## 🎬 Vídeo de Apresentação
